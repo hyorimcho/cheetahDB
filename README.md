@@ -31,5 +31,5 @@
   - 재사용 가능한 컴포넌트를 잘 분리하지 못한 점
 - 에러 처리 부족
 - git 활용 미숙
-  - feature branch 를 통한 기능 개발 후 commit이 부족했음
-  - commit을 어느 주기로 해야 할지
+  - feature branch 를 통한 기능 개발 후 commit이 부족했던 점
+  - commit을 어느 주기로 해야 할지에 대한 고찰
